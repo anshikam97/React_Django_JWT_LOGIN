@@ -1,0 +1,4 @@
+backend/env/Lib/
+backend/env/Scripts/
+frontend/gui/node_modules/
+frontend/node_modules/
